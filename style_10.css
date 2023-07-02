@@ -1,0 +1,33 @@
+img {
+    border: 5px solid saddlebrown;
+    margin-top: 10px;
+}
+p, h2 {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+}
+td {
+    text-align: center;
+    border: 2px solid saddlebrown;
+    padding: 5px 15px;
+}
+th {
+    color: white;
+    padding: 5px 15px;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid saddlebrown;
+    width: 400px;
+}
+body {
+    background-color: #f6cec0;
+}
+.article {
+    background-color: #f6cec0;
+}
+
+ul {
+    list-style-image: url("img/Жираф/icon2.png");
+}
